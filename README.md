@@ -4,9 +4,9 @@
 <img align="right"  width="400" src="https://img.freepik.com/free-vector/gradient-devops-illustration_23-2149373211.jpg?ga=GA1.1.1947056441.1748439986&semt=ais_items_boosted&w=740">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkushwaha01&label=Profile%20views&color=0e75b6&style=flat" alt="rajkushwaha01" /> </p>
 
-- 🔭 I have done project on **Hostel managment System,QR code certificate validating by using blockchain**
+- 🔭 I have done project on **Serverless image processing system, Static Website with contact form,Hostel managment System,QR code certificate validating by using blockchain,Automate enviroment by using ansilbe**
 
-- 🌱 I’m currently learning **Devops,(All Tools)**
+- 🌱 I’m currently learning **Devops(Aws,Linux,Shell/Bash Scripting,Docker,Kubernetes,Ansible,Terraform,Maven,Python,Sql)**
 
 - 🤝 I’m looking for help with **get me my fisrt job**
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **devops**
 
-- 📫 How to reach me **rajkush018@gmail.com**
+- 📫 How to reach me **rajkush.devops@gmail.com/9508803490**
 
 - 📄 Know about my experiences i have done INTERNSHIP from ROOMAN TECH BANGLORE,(sep 2024 to feb 2025)
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/raj-kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj-kushwaha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/raj-kushwaha-3005aa265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj-kushwaha" height="30" width="40" /></a>
 <a href="https://instagram.com/raj_n250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raj_n250" height="30" width="40" /></a>
 </p>
 
