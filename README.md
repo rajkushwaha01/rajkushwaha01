@@ -3,10 +3,7 @@
 <h3 align="center">A passionate 'DEVOPS ENGINEER' from India</h3>
 <img align="right"  width="400" src="https://img.freepik.com/free-vector/gradient-devops-illustration_23-2149373211.jpg?ga=GA1.1.1947056441.1748439986&semt=ais_items_boosted&w=740">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkushwaha01&label=Profile%20views&color=0e75b6&style=flat" alt="rajkushwaha01" /> </p>
-
-- 🔭 I have done project on **Serverless image processing system, Static Website with contact form,Hostel managment System,QR code certificate validating by using blockchain,Automate enviroment by using ansilbe**
-
-- 🌱 I’m currently learning **Devops(Aws,Linux,Shell/Bash Scripting,Docker,Kubernetes,Ansible,Terraform,Maven,Python,Sql)**
+- 🌱 I’m currently learning **Devops(Aws,Linux,Shell/Bash,Docker,Kubernetes,Ansible,Terraform,Maven,Terraform,Jenkins,Python)**
 
 - 🤝 I’m looking for help with **get me my fisrt job**
 
