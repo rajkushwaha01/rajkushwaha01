@@ -1,165 +1,227 @@
-<div align="center">
+<!-- =============== HEADER BANNER =============== -->
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=220&section=header&text=RAJ%20KUSHWAHA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation&descAlignY=58&descSize=16" width="100%" />
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=RAJ%20KUSHWAHA&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20Cloud%20%7C%20Automation&descSize=18&descAlignY=55"
+    width="100%"
+    alt="Raj Kushwaha DevOps Portfolio Banner"
+  />
+</p>
 
-<!-- PROFILE PHOTO -->
-<img src="./rajpp.jpeg" width="170" alt="Raj Kushwaha" style="border-radius:50%;" />
+<!-- =============== PROFILE INTRODUCTION =============== -->
 
-<h1>Hi 👋, I'm Raj Kushwaha</h1>
+<h1 align="center">Hi 👋, I'm Raj Kushwaha</h1>
 
-<h3>
-🚀 Aspiring DevOps Engineer | 2025 CSE Graduate
+<h3 align="center">
+  Aspiring DevOps Engineer | AWS Cloud | CI/CD Automation
 </h3>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Learning+DevOps+and+Cloud+Technologies;Building+CI%2FCD+Pipelines;Exploring+AWS+and+Kubernetes;Automating+Infrastructure+and+Deployments" alt="Typing SVG" />
+<p align="center">
+  <img src="./rajpp.jpeg" width="160" alt="Raj Kushwaha Profile Photo" />
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=rajkushwaha01&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p>
+<p align="center">
   <a href="https://github.com/rajkushwaha01">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
   </a>
   <a href="https://www.linkedin.com/in/raj-kushwaha-3005aa265/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
+  </a>
+  <a href="mailto:rajkush.devops@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Raj" />
   </a>
 </p>
 
-</div>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Learning+DevOps+One+Step+at+a+Time;Building+CI%2FCD+Pipelines;Exploring+AWS+Cloud+Infrastructure;Automating+Application+Deployments"
+    alt="Typing SVG"
+  />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Raj Kushwaha**, a Computer Science Engineering graduate from VTU, Bengaluru, passionate about DevOps, Cloud Computing, and Automation.
+I'm Raj Kushwaha, a 2025 Computer Science Engineering graduate aspiring to build a career in **DevOps and Cloud Engineering**.
 
-I completed DevOps training at Rooman Technologies and am continuously improving my practical skills through hands-on projects and self-learning.
+I have developed foundational skills in AWS, Linux, Docker, Kubernetes, Jenkins, GitHub Actions, and Infrastructure as Code through structured training and hands-on projects.
 
-- 🎓 **Education:** B.E. in Computer Science Engineering
-- 💼 **Career Goal:** Entry-Level DevOps Engineer
-- ☁️ **Cloud Platform:** Amazon Web Services (AWS)
-- 🔧 **Currently Learning:** CI/CD, Docker, Kubernetes, Terraform and Cloud Automation
-- 🛠️ **Interests:** Infrastructure Automation, Containerization and Deployment Pipelines
-- 🌱 **Mindset:** Learn, Build, Automate and Improve
-- 📫 **Email:** [rajkush.devops@gmail.com](mailto:rajkush.devops@gmail.com)
+I'm particularly interested in CI/CD automation, container orchestration, cloud infrastructure, and reliable application deployments.
 
-💡 *I'm looking for an opportunity to contribute to a DevOps team, apply my technical knowledge, and grow through real-world engineering challenges.*
+* ☁️ Exploring AWS cloud infrastructure and services.
+* 🔄 Practicing CI/CD pipelines with Jenkins and GitHub Actions.
+* 🐳 Learning containerization and orchestration with Docker and Kubernetes.
+* 🏗️ Exploring Infrastructure as Code with Terraform and Ansible.
+* 🛠️ Improving my troubleshooting and Linux administration skills.
+* 🎯 Looking for an entry-level opportunity in DevOps or Cloud Engineering.
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🧑‍💼 Experience & Training
+
+### DevOps Trainee — Rooman Technologies
+
+**Bengaluru, Karnataka | September 2024 – February 2025**
+
+* Developed foundational knowledge of Linux, Git, GitHub, AWS, and DevOps practices.
+* Practiced CI/CD concepts using Jenkins and GitHub.
+* Explored Docker containers and basic Kubernetes deployments in a training environment.
+* Gained introductory exposure to AWS services, including EC2, S3, IAM, and VPC.
+* Practiced basic command-line operations and application deployment workflows.
+
+### DevOps & Cloud Training — JSpiders
+
+**Marathahalli, Bengaluru | July 2025 – February 2026**
+
+* Completed structured, on-site training in DevOps and AWS Cloud fundamentals.
+* Practiced Linux administration, Git/GitHub, Jenkins, Docker, and Kubernetes.
+* Explored Terraform and Ansible fundamentals.
+* Learned CI/CD concepts and application build workflows using Maven.
+* Gained introductory exposure to SonarQube and Nexus.
+* Practiced AWS infrastructure concepts, including EC2, VPC, subnets, and security groups.
+
+---
+
+## 🛠️ Technical Skills
 
 ### ☁️ Cloud & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible" alt="Cloud and Infrastructure Tools"/>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible" alt="AWS Terraform Ansible" />
 </p>
 
-### ⚙️ DevOps & CI/CD
+**AWS services:** EC2, S3, ECR, EKS, IAM, VPC, CloudWatch
+
+### 🔄 CI/CD & Version Control
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,jenkins,docker,kubernetes,maven" alt="DevOps Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins" alt="Git GitHub GitHub Actions Jenkins" />
+</p>
+
+### 🐳 Containers & Orchestration
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Docker Kubernetes" />
 </p>
 
 ### 🐧 Operating Systems & Scripting
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,python" alt="Operating Systems and Scripting"/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,python" alt="Linux Bash Python" />
 </p>
 
-### 🌐 Web Servers, Databases & Monitoring
+### 🧰 Build, Monitoring & Web Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nginx,mysql,prometheus,grafana" alt="Web Servers, Databases and Monitoring"/>
+  <img src="https://skillicons.dev/icons?i=maven,nginx,mysql,prometheus,grafana" alt="Maven Nginx MySQL Prometheus Grafana" />
 </p>
 
----
-
-## 🚀 Featured DevOps Projects
-
-### 1. 🔄 CI/CD Pipeline Using Jenkins, Docker & GitHub
-
-- Integrated GitHub with Jenkins for automated builds.
-- Created a CI/CD pipeline to build and deploy applications.
-- Used Docker to package applications into containers.
-- Practiced automated deployments and troubleshooting.
-
-**Technologies:** Jenkins | GitHub | Docker | Linux
-
-### 2. ☁️ AWS Infrastructure & Web Server Deployment
-
-- Practiced launching and configuring AWS EC2 instances.
-- Configured security groups and SSH access.
-- Deployed a web application using Nginx.
-- Explored AWS IAM, S3 and cloud infrastructure management.
-
-**Technologies:** AWS | EC2 | IAM | S3 | Nginx | Linux
-
-### 3. 🐳 Containerization & Kubernetes Deployment
-
-- Practiced building Docker images and running containers.
-- Worked with Kubernetes deployment and service configurations.
-- Explored application scaling and container orchestration.
-- Learned basic troubleshooting of containerized applications.
-
-**Technologies:** Docker | Kubernetes | YAML | Linux
+**Additional tools:** SonarQube, Nexus Repository, kubectl, YAML, SQL, Networking fundamentals
 
 ---
+
+## 🚀 Featured Projects
+
+### 1. 🍔 Zomato Web Application — CI/CD Deployment
+
+**Technologies:** AWS EC2, Jenkins, GitHub, Maven, SonarQube, Nexus, Docker, Kubernetes, Nginx
+
+* Practiced a CI/CD workflow connecting source code with build and deployment stages.
+* Explored code quality analysis using SonarQube.
+* Learned artifact management concepts with Nexus Repository.
+* Practiced containerization and Kubernetes deployment concepts.
+* Explored AWS networking concepts, including VPCs, subnets, and security groups.
+
+
+### 2. ☁️ Three-Tier Application Deployment on AWS EKS
+
+**Technologies:** AWS EC2, EKS, Jenkins, Docker, Kubernetes, GitHub
+
+* Explored the architecture of a frontend, backend, and database application.
+* Practiced configuring deployment tools on an EC2 instance.
+* Learned EKS cluster and Kubernetes worker-node concepts.
+* Worked with Kubernetes Deployments, Services, Secrets, and Persistent Volumes.
+* Explored Jenkins pipeline automation for container-based deployments.
+
+
+### 3. 📦 Automated Docker Image Build & Push to Amazon ECR
+
+**Technologies:** GitHub Actions, Docker, AWS IAM, Amazon ECR
+
+* Created a GitHub Actions workflow for automating Docker image builds.
+* Configured the workflow to run when code is pushed to the `main` branch.
+* Explored AWS authentication and permissions for Amazon ECR.
+* Practiced pushing container images to a private ECR repository.
+* Learned to troubleshoot workflow failures using GitHub Actions logs.
+
+
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rajkushwaha01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="165"
+    alt="Raj's GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkushwaha01&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="Most Used Programming Languages"
+  />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajkushwaha01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Raj's GitHub Statistics"/>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=rajkushwaha01&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkushwaha01&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=rajkushwaha01&label=PROFILE%20VIEWS&color=blue&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=rajkushwaha01&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-</div>
 
 ---
 
-## 🎯 My Current Goals
+## 🎯 Current Learning Goals
 
-- [x] Learn Linux and Git fundamentals
-- [x] Build a foundation in AWS and DevOps tools
-- [ ] Improve Jenkins and GitHub CI/CD pipeline skills
-- [ ] Build more AWS and Kubernetes projects
-- [ ] Practice Terraform and Infrastructure as Code
-- [ ] Prepare for real-world DevOps engineering challenges
-- [ ] Secure my first opportunity as a DevOps Engineer
+* [ ] Build and troubleshoot a complete GitHub Actions pipeline.
+* [ ] Automate Docker image builds and pushes to Amazon ECR.
+* [ ] Practice deploying containerized applications on AWS.
+* [ ] Strengthen Linux administration and troubleshooting.
+* [ ] Improve Terraform and Kubernetes practical knowledge.
+* [ ] Document projects with architecture diagrams and screenshots.
 
 ---
 
 ## 🤝 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/rajkushwaha01">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/raj-kushwaha-3005aa265/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rajkush.devops@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/raj-kushwaha-3005aa265/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
+<p align="center">
+  <b>Always learning. Always building. Automating one step at a time. 🚀</b>
+</p>
 
-<a href="mailto:rajkush.devops@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<a href="https://github.com/rajkushwaha01">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-### 💬 "Learn Continuously. Automate Everything. Build Something Meaningful."
-
-**Thanks for visiting my profile! ⭐**
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=120&section=footer" width="100%" />
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=100&section=footer"
+    width="100%"
+    alt="Footer Banner"
+  />
+</p>
