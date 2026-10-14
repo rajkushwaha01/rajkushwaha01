@@ -1,33 +1,165 @@
-![logo](https://github.com/rajkushwaha01/rajkushwaha01/blob/main/banner.jpg)
-<h1 align="center">Hi 👋, I'm RAJ KUSHWAHA</h1>
-<h3 align="center">A passionate 'DEVOPS ENGINEER' from India</h3>
-<img align="right"  width="400" src="https://img.freepik.com/free-vector/gradient-devops-illustration_23-2149373211.jpg?ga=GA1.1.1947056441.1748439986&semt=ais_items_boosted&w=740">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkushwaha01&label=Profile%20views&color=0e75b6&style=flat" alt="rajkushwaha01" /> </p>
-- 🌱 I’m currently learning **Devops(Aws,Linux,Shell/Bash,Docker,Kubernetes,Ansible,Terraform,Maven,Terraform,Jenkins,Python)**
+<div align="center">
 
-- 🤝 I’m looking for help with **get me my fisrt job**
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=220&section=header&text=RAJ%20KUSHWAHA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation&descAlignY=58&descSize=16" width="100%" />
 
-- Qualification B.E (Computer Science Engineering),V.T.U Banglore
+<!-- PROFILE PHOTO -->
+<img src="./assets/raj-profile.jpeg" width="170" alt="Raj Kushwaha" style="border-radius:50%;" />
 
-- 💬 Ask me about **devops**
+<h1>Hi 👋, I'm Raj Kushwaha</h1>
 
-- 📫 How to reach me **rajkush.devops@gmail.com/9508803490**
+<h3>
+🚀 Aspiring DevOps Engineer | 2025 CSE Graduate
+</h3>
 
-- 📄 Know about my experiences i have done INTERNSHIP from ROOMAN TECH BANGLORE,(sep 2024 to feb 2025)
-
-- ⚡ Fun fact **I am always ready to learn new things**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/raj-kushwaha-3005aa265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj-kushwaha" height="30" width="40" /></a>
-<a href="https://instagram.com/raj_n250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raj_n250" height="30" width="40" /></a>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Learning+DevOps+and+Cloud+Technologies;Building+CI%2FCD+Pipelines;Exploring+AWS+and+Kubernetes;Automating+Infrastructure+and+Deployments" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=rajkushwaha01&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile Views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajkushwaha01&show_icons=true&locale=en&layout=compact" alt="rajkushwaha01" /></p>
+<p>
+  <a href="https://github.com/rajkushwaha01">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/raj-kushwaha-3005aa265/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajkushwaha01&show_icons=true&locale=en" alt="rajkushwaha01" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajkushwaha01&" alt="rajkushwaha01" /></p>
+---
+
+## 👨‍💻 About Me
+
+Hello! I'm **Raj Kushwaha**, a Computer Science Engineering graduate from VTU, Bengaluru, passionate about DevOps, Cloud Computing, and Automation.
+
+I completed DevOps training at Rooman Technologies and am continuously improving my practical skills through hands-on projects and self-learning.
+
+- 🎓 **Education:** B.E. in Computer Science Engineering
+- 💼 **Career Goal:** Entry-Level DevOps Engineer
+- ☁️ **Cloud Platform:** Amazon Web Services (AWS)
+- 🔧 **Currently Learning:** CI/CD, Docker, Kubernetes, Terraform and Cloud Automation
+- 🛠️ **Interests:** Infrastructure Automation, Containerization and Deployment Pipelines
+- 🌱 **Mindset:** Learn, Build, Automate and Improve
+- 📫 **Email:** [rajkush.devops@gmail.com](mailto:rajkush.devops@gmail.com)
+
+💡 *I'm looking for an opportunity to contribute to a DevOps team, apply my technical knowledge, and grow through real-world engineering challenges.*
+
+---
+
+## 🧰 Tech Stack & Tools
+
+### ☁️ Cloud & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible" alt="Cloud and Infrastructure Tools"/>
+</p>
+
+### ⚙️ DevOps & CI/CD
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,jenkins,docker,kubernetes,maven" alt="DevOps Tools"/>
+</p>
+
+### 🐧 Operating Systems & Scripting
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,python" alt="Operating Systems and Scripting"/>
+</p>
+
+### 🌐 Web Servers, Databases & Monitoring
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nginx,mysql,prometheus,grafana" alt="Web Servers, Databases and Monitoring"/>
+</p>
+
+---
+
+## 🚀 Featured DevOps Projects
+
+### 1. 🔄 CI/CD Pipeline Using Jenkins, Docker & GitHub
+
+- Integrated GitHub with Jenkins for automated builds.
+- Created a CI/CD pipeline to build and deploy applications.
+- Used Docker to package applications into containers.
+- Practiced automated deployments and troubleshooting.
+
+**Technologies:** Jenkins | GitHub | Docker | Linux
+
+### 2. ☁️ AWS Infrastructure & Web Server Deployment
+
+- Practiced launching and configuring AWS EC2 instances.
+- Configured security groups and SSH access.
+- Deployed a web application using Nginx.
+- Explored AWS IAM, S3 and cloud infrastructure management.
+
+**Technologies:** AWS | EC2 | IAM | S3 | Nginx | Linux
+
+### 3. 🐳 Containerization & Kubernetes Deployment
+
+- Practiced building Docker images and running containers.
+- Worked with Kubernetes deployment and service configurations.
+- Explored application scaling and container orchestration.
+- Learned basic troubleshooting of containerized applications.
+
+**Technologies:** Docker | Kubernetes | YAML | Linux
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajkushwaha01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Raj's GitHub Statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkushwaha01&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=rajkushwaha01&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## 🎯 My Current Goals
+
+- [x] Learn Linux and Git fundamentals
+- [x] Build a foundation in AWS and DevOps tools
+- [ ] Improve Jenkins and GitHub CI/CD pipeline skills
+- [ ] Build more AWS and Kubernetes projects
+- [ ] Practice Terraform and Infrastructure as Code
+- [ ] Prepare for real-world DevOps engineering challenges
+- [ ] Secure my first opportunity as a DevOps Engineer
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/raj-kushwaha-3005aa265/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:rajkush.devops@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/rajkushwaha01">
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+### 💬 "Learn Continuously. Automate Everything. Build Something Meaningful."
+
+**Thanks for visiting my profile! ⭐**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=120&section=footer" width="100%" />
