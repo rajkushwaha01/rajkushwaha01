@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=220&section=header&text=RAJ%20KUSHWAHA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation&descAlignY=58&descSize=16" width="100%" />
 
 <!-- PROFILE PHOTO -->
-<img src="./assets/raj-profile.jpeg" width="170" alt="Raj Kushwaha" style="border-radius:50%;" />
+<img src="./assets/rajpp.jpeg" width="170" alt="Raj Kushwaha" style="border-radius:50%;" />
 
 <h1>Hi 👋, I'm Raj Kushwaha</h1>
 
